@@ -1,0 +1,11 @@
+node_modules
+dist
+release
+vendor/tectonic/**
+*.zip
+*.pdf
+*.ico
+*.icns
+*.png
+*.tar
+package-lock.json
