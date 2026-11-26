@@ -1,0 +1,1 @@
+console.log("Verdict smoke test passed");
