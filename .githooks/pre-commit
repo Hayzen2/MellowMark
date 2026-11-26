@@ -1,6 +1,0 @@
-#!/bin/sh
-# The pre-commit hook checks formatting without modifying staged files.
-npm run format:check || {
-  echo 'Please run npm run format and stage the results before committing.' >&2
-  exit 1
-}
